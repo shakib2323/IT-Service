@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    margin-top: 50px;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formcontent{
+    width: 40%;
+    height: 80%px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
